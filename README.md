@@ -11,6 +11,12 @@
 | Fernanda Villagrán | Desarrolladora |
 | Franco Hidalgo | Desarrollador |
 
+## 🔐 Reglas del repositorio
+
+- Todo cambio en el proyecto debe realizarse mediante Pull Requests (PR).
+- Cada PR debe ser revisado y aprobado por al menos un integrante del equipo distinto al autor antes de ser fusionado a `main`.
+- La rama `main` se mantiene protegida, por lo que **no se permiten commits directos** sobre ella.
+- Porfavor mantener el mensaje de los commits lo más descriptivo posible, asi mantenemos un buen orden en el versionamiento
 
 # Clonar el repositorio
 git clone https://github.com/SYRSENSE/flutter_Project
@@ -27,9 +33,4 @@ git clone https://github.com/SYRSENSE/flutter_Project
 Se debe ingresar a github para hacer el pull request
 El pull request debe ser validado por otro compañero antes de subirlo a la rama principal
 
-## 🔐 Reglas del repositorio
 
-- Todo cambio en el proyecto debe realizarse mediante Pull Requests (PR).
-- Cada PR debe ser revisado y aprobado por al menos un integrante del equipo distinto al autor antes de ser fusionado a `main`.
-- La rama `main` se mantiene protegida, por lo que **no se permiten commits directos** sobre ella.
-- Porfavor mantener el mensaje de los commits lo más descriptivo posible, asi mantenemos un buen orden en el versionamiento
