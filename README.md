@@ -12,7 +12,7 @@
 | Franco Hidalgo | Desarrollador |
 
 ## 🔐 Reglas del repositorio
-
+- Se trabajará a partir de ramas, seguir el flujo de trabajo mencionado más abajo
 - La rama `main` se mantiene protegida, por lo que **no se permiten commits directos** sobre ella.
 - Todo cambio en el proyecto debe realizarse mediante Pull Requests (PR).
 - Cada PR debe ser revisado y aprobado por al menos un integrante del equipo distinto al autor antes de ser fusionado a `main`.
