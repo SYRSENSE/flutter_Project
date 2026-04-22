@@ -12,10 +12,10 @@
 | Franco Hidalgo | Desarrollador |
 
 
-# 1° Clonar el repositorio
+# Clonar el repositorio
 git clone https://github.com/SYRSENSE/flutter_Project
 
-# 2° Flujo de Trabajo con Git
+# Flujo de Trabajo con Git
 
 | Acción | Comando |
 |--------|---------|
