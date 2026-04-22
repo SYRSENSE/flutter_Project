@@ -13,9 +13,9 @@
 
 ## 🔐 Reglas del repositorio
 
+- La rama `main` se mantiene protegida, por lo que **no se permiten commits directos** sobre ella.
 - Todo cambio en el proyecto debe realizarse mediante Pull Requests (PR).
 - Cada PR debe ser revisado y aprobado por al menos un integrante del equipo distinto al autor antes de ser fusionado a `main`.
-- La rama `main` se mantiene protegida, por lo que **no se permiten commits directos** sobre ella.
 - Porfavor mantener el mensaje de los commit lo más descriptivo posible, asi mantenemos un buen orden en el versionamiento
 
 # Clonar el repositorio
