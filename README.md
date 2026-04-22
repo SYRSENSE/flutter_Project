@@ -13,7 +13,7 @@ Fernanda Villagrán
 # 1° Clonar el repositorio
 git clone https://github.com/SYRSENSE/flutter_Project
 
-# Flujo de Trabajo con Git
+# 2° Flujo de Trabajo con Git
 
 | Acción | Comando |
 |--------|---------|
