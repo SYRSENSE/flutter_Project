@@ -1,13 +1,16 @@
 # flutter_Project
 Proyecto semestral de Desarrollo de Aplicaciones Web
 
-Integrantes del Grupo:
-Constanza Cauchupan
-Diego Delgado
-Franco Hidalgo
-José Moris
-Jorge Páez
-Fernanda Villagrán
+# Integrantes del Grupo
+
+| Nombre | Rol |
+|--------|-----|
+| Constanza Cauchupan | Responsable Funcional (Product Owner) + Desarrolladora |
+| Jorge Páez | Coordinador Ágil (Scrum Master) + Desarrollador |
+| José Moris | Líder Técnico + Desarrollador |
+| Diego Delgado | Propietario de Integración API + Desarrollador |
+| Fernanda Villagrán | Desarrolladora |
+| Franco Hidalgo | Desarrollador |
 
 
 # 1° Clonar el repositorio
