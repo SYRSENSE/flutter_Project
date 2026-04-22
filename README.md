@@ -30,7 +30,5 @@ git clone https://github.com/SYRSENSE/flutter_Project
 | Sincronizar con los cambios del main | `git fetch origin` |
 | Guardar tus cambios | `git add .`<br>`git commit -m "Descripción clara del cambio"` |
 | Subir tu rama y crear un Pull Request | `git push -u origin feature/nombre-de-la-feature` |
-Se debe ingresar a github para hacer el pull request
-El pull request debe ser validado por otro compañero antes de subirlo a la rama principal
 
 
